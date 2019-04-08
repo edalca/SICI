@@ -63,5 +63,12 @@ namespace SICI
             are.MdiParent = this;
             are.Show();
         }
+
+        private void rbtnAreaEquipo_Click(object sender, EventArgs e)
+        {
+            frmAreaEquipo areaequipo = new frmAreaEquipo();
+            areaequipo.MdiParent = this;
+            areaequipo.Show();
+        }
     }
 }

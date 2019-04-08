@@ -63,6 +63,12 @@
     <Compile Include="Catalagos\frmArea.Designer.cs">
       <DependentUpon>frmArea.cs</DependentUpon>
     </Compile>
+    <Compile Include="Catalagos\frmAreaEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Catalagos\frmAreaEquipo.designer.cs">
+      <DependentUpon>frmAreaEquipo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Catalagos\frmDepartamentos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -113,6 +119,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Catalagos\frmArea.resx">
       <DependentUpon>frmArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Catalagos\frmAreaEquipo.resx">
+      <DependentUpon>frmAreaEquipo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Catalagos\frmDepartamentos.resx">
       <DependentUpon>frmDepartamentos.cs</DependentUpon>
