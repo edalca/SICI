@@ -1,0 +1,68 @@
+C:\Users\edalca\Dropbox\SICI\SICI\bin\Debug\SICI.exe.config
+C:\Users\edalca\Dropbox\SICI\SICI\bin\Debug\SICI.exe
+C:\Users\edalca\Dropbox\SICI\SICI\bin\Debug\SICI.pdb
+C:\Users\edalca\Dropbox\SICI\SICI\obj\Debug\SICI.csprojResolveAssemblyReference.cache
+C:\Users\edalca\Dropbox\SICI\SICI\obj\Debug\SICI.MDI_SICI.resources
+C:\Users\edalca\Dropbox\SICI\SICI\obj\Debug\SICI.Properties.Resources.resources
+C:\Users\edalca\Dropbox\SICI\SICI\obj\Debug\SICI.csproj.GenerateResource.Cache
+C:\Users\edalca\Dropbox\SICI\SICI\obj\Debug\SICI.exe
+C:\Users\edalca\Dropbox\SICI\SICI\obj\Debug\SICI.pdb
+C:\Users\edalca\Dropbox\SICI\SICI\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\edalca\Dropbox\SICI\SICI\obj\Debug\SICI.Catalagos.frmDepartamentos.resources
+C:\Users\edalca\Dropbox\SICI\SICI\bin\Debug\MetroFramework.Design.dll
+C:\Users\edalca\Dropbox\SICI\SICI\bin\Debug\MetroFramework.dll
+C:\Users\edalca\Dropbox\SICI\SICI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Owner User\Desktop\SIS\SICI\SICI\bin\Debug\SICI.exe.config
+C:\Users\Owner User\Desktop\SIS\SICI\SICI\obj\Debug\SICI.exe
+C:\Users\Owner User\Desktop\SIS\SICI\SICI\obj\Debug\SICI.pdb
+C:\Users\Owner User\Desktop\SIS\SICI\SICI\bin\Debug\SICI.exe
+C:\Users\Owner User\Desktop\SIS\SICI\SICI\bin\Debug\SICI.pdb
+C:\Users\Owner User\Desktop\SIS\SICI\SICI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Owner User\Desktop\SIS\SICI\SICI\bin\Debug\MetroFramework.dll
+C:\Users\Owner User\Desktop\SIS\SICI\SICI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Owner User\Desktop\SIS\SICI\SICI\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\Owner User\Desktop\SIS\SICI\SICI\obj\Debug\SICI.csprojResolveAssemblyReference.cache
+C:\Users\Owner User\Desktop\SIS\SICI\SICI\obj\Debug\SICI.Catalagos.frmDepartamentos.resources
+C:\Users\Owner User\Desktop\SIS\SICI\SICI\obj\Debug\SICI.MDI_SICI.resources
+C:\Users\Owner User\Desktop\SIS\SICI\SICI\obj\Debug\SICI.Properties.Resources.resources
+C:\Users\Owner User\Desktop\SIS\SICI\SICI\obj\Debug\SICI.csproj.GenerateResource.Cache
+C:\Users\sistemas produccion\Desktop\SICI\SICIModificado\SICI\bin\Debug\SICI.exe.config
+C:\Users\sistemas produccion\Desktop\SICI\SICIModificado\SICI\obj\Debug\SICI.exe
+C:\Users\sistemas produccion\Desktop\SICI\SICIModificado\SICI\obj\Debug\SICI.pdb
+C:\Users\sistemas produccion\Desktop\SICI\SICIModificado\SICI\bin\Debug\SICI.exe
+C:\Users\sistemas produccion\Desktop\SICI\SICIModificado\SICI\bin\Debug\SICI.pdb
+C:\Users\sistemas produccion\Desktop\SICI\SICIModificado\SICI\bin\Debug\MetroFramework.Design.dll
+C:\Users\sistemas produccion\Desktop\SICI\SICIModificado\SICI\bin\Debug\MetroFramework.dll
+C:\Users\sistemas produccion\Desktop\SICI\SICIModificado\SICI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\sistemas produccion\Desktop\SICI\SICIModificado\SICI\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\sistemas produccion\Desktop\SICI\SICIModificado\SICI\obj\Debug\SICI.csprojResolveAssemblyReference.cache
+C:\Users\sistemas produccion\Desktop\SICI\SICIModificado\SICI\obj\Debug\SICI.Catalagos.frmDepartamentos.resources
+C:\Users\sistemas produccion\Desktop\SICI\SICIModificado\SICI\obj\Debug\SICI.MDI_SICI.resources
+C:\Users\sistemas produccion\Desktop\SICI\SICIModificado\SICI\obj\Debug\SICI.Properties.Resources.resources
+C:\Users\sistemas produccion\Desktop\SICI\SICIModificado\SICI\obj\Debug\SICI.csproj.GenerateResource.Cache
+C:\Users\sistemas produccion\Desktop\SICI\SICIModificado\SICI\obj\Debug\SICI.Catalagos.frmQuimico.resources
+C:\Users\sistemas produccion\Desktop\SICI\SICIModificado\SICI\obj\Debug\SICI.Catalagos.frmEquipo.resources
+C:\Users\sistemas produccion\Desktop\SICI\SICIModificado\SICI\obj\Debug\SICI.Catalagos.frmProveedor.resources
+C:\Users\sistemas produccion\Desktop\SICI\SICIModificado\SICI\obj\Debug\SICI.Catalagos.frmUnidad.resources
+C:\Users\sistemas produccion\Desktop\SICIORIGINAL\SICIModificado\SICI\bin\Debug\SICI.exe.config
+C:\Users\sistemas produccion\Desktop\SICIORIGINAL\SICIModificado\SICI\obj\Debug\SICI.exe
+C:\Users\sistemas produccion\Desktop\SICIORIGINAL\SICIModificado\SICI\obj\Debug\SICI.pdb
+C:\Users\sistemas produccion\Desktop\SICIORIGINAL\SICIModificado\SICI\bin\Debug\SICI.exe
+C:\Users\sistemas produccion\Desktop\SICIORIGINAL\SICIModificado\SICI\bin\Debug\SICI.pdb
+C:\Users\sistemas produccion\Desktop\SICIORIGINAL\SICIModificado\SICI\bin\Debug\MetroFramework.Design.dll
+C:\Users\sistemas produccion\Desktop\SICIORIGINAL\SICIModificado\SICI\bin\Debug\MetroFramework.dll
+C:\Users\sistemas produccion\Desktop\SICIORIGINAL\SICIModificado\SICI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\sistemas produccion\Desktop\SICIORIGINAL\SICIModificado\SICI\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\sistemas produccion\Desktop\SICIORIGINAL\SICIModificado\SICI\obj\Debug\SICI.csprojResolveAssemblyReference.cache
+C:\Users\sistemas produccion\Desktop\SICIORIGINAL\SICIModificado\SICI\obj\Debug\SICI.Catalagos.frmDepartamentos.resources
+C:\Users\sistemas produccion\Desktop\SICIORIGINAL\SICIModificado\SICI\obj\Debug\SICI.Catalagos.frmEquipo.resources
+C:\Users\sistemas produccion\Desktop\SICIORIGINAL\SICIModificado\SICI\obj\Debug\SICI.Catalagos.frmProveedor.resources
+C:\Users\sistemas produccion\Desktop\SICIORIGINAL\SICIModificado\SICI\obj\Debug\SICI.Catalagos.frmQuimico.resources
+C:\Users\sistemas produccion\Desktop\SICIORIGINAL\SICIModificado\SICI\obj\Debug\SICI.Catalagos.frmUnidad.resources
+C:\Users\sistemas produccion\Desktop\SICIORIGINAL\SICIModificado\SICI\obj\Debug\SICI.MDI_SICI.resources
+C:\Users\sistemas produccion\Desktop\SICIORIGINAL\SICIModificado\SICI\obj\Debug\SICI.Properties.Resources.resources
+C:\Users\sistemas produccion\Desktop\SICIORIGINAL\SICIModificado\SICI\obj\Debug\SICI.csproj.GenerateResource.Cache
+C:\Users\sistemas produccion\Desktop\SICIORIGINAL\SICIModificado\SICI\obj\Debug\SICI.Catalagos.frmArea.resources
+C:\Users\edalca\Desktop\SICIORIGINAL\SICIModificado\SICI\bin\Debug\SICI.exe.config
+C:\Users\edalca\Desktop\SICIORIGINAL\SICIModificado\SICI\obj\Debug\SICI.exe
+C:\Users\edalca\Desktop\SICIORIGINAL\SICIModificado\SICI\obj\Debug\SICI.pdb
